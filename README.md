@@ -22,7 +22,7 @@
 - InsightSwarm (Multi-Agent Research Engine)
 - My_SLM (Small Language Model in PyTorch)
 - Student Performance Prediction
-- Weather Dashboard
+- Fruit_Crusher Game
 - Local LLM Assistant (Ollama)
 
 ---
