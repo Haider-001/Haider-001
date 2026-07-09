@@ -24,6 +24,8 @@
 - Student Performance Prediction
 - Fruit_Crusher Game
 - Local LLM Assistant (Ollama)
+- Netflix Clone
+- Amazon Clone
 
 ---
 
