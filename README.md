@@ -1,138 +1,82 @@
-# <h1 align="center">Hi 👋, I'm Ghazi Haider</h1>
+<h1 align="center">Hi 👋, I'm Ghazi Haider</h1>
 
 <h3 align="center">
-AI & Python Developer • B.Tech CSE (Data Science & AI) • Building Intelligent Systems
+AI Engineer • Python Developer • B.Tech CSE (Data Science & AI)
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Python+Developer;Building+LLM+Applications;Exploring+Agentic+AI+Systems;FastAPI+%7C+Docker+%7C+LangChain;Always+Learning+and+Building+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Haider-001&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Haider-001?label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/Haider-001?affiliations=OWNER&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=950&lines=Ghazi+Haider;AI+%26+Python+Developer;Building+Intelligent+Systems;LLMs+%7C+Agentic+AI+%7C+RAG;FastAPI+%7C+Docker+%7C+LangChain;Always+Learning+Always+Building+🚀" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 **B.Tech CSE (Data Science & AI)** @ Integral University
+🎓 B.Tech CSE (Data Science & AI) @ Integral University
 
-💡 Passionate about Artificial Intelligence, Machine Learning, LLMs, and Backend Development
-
-🤖 Building AI-powered applications using Local LLMs, Agentic AI, and RAG
-
-🐍 Python Developer focused on scalable and intelligent systems
-
-📍 Lucknow, India
+🤖 Interested in AI, LLMs, Agentic AI & Backend Development
 
 🌱 Currently Learning:
 
-* LangGraph
-* Agentic AI Systems
-* FastAPI
-* Docker & DevOps
+- LangGraph
+- FastAPI
+- Docker
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://www.linkedin.com/in/ghazi-haider-4a906336a">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:itsghazihaider008@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.instagram.com/ghazi_haider01/">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://x.com/GhaziHaider0">
+  <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 <a href="https://ghazi-haider-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-* AI Agents
-* Local LLMs
-* NLP
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
-</p>
-
-### Tools & IDEs
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,pycharm" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,flask,fastapi,nodejs,express,mysql,mongodb,docker,git,github,vscode,linux,pytorch,tensorflow&perline=9" />
 </p>
 
 ---
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
 ### 🤖 InsightSwarm
-
-Multi-Agent Research Engine capable of gathering, analyzing, and generating structured reports using AI agents.
+Multi-Agent Research Engine powered by AI agents.
 
 ### 🧠 My_SLM
-
-Building a Small Language Model from scratch in PyTorch to understand LLM internals.
+Small Language Model built from scratch using PyTorch.
 
 ### 🎯 Student Performance Prediction
-
-Machine Learning project for predicting student academic performance.
+Machine Learning based prediction system.
 
 ### 🍉 Fruit Crusher
-
-Arcade-style game built with Python and Pygame featuring achievements, challenges, and player progression.
-
-### 💬 Local LLM Assistant
-
-Offline AI Assistant powered by Ollama and open-source language models.
-
-### 🎬 Netflix Clone
-
-Frontend clone replicating Netflix UI and user experience.
-
-### 🛒 Amazon Clone
-
-Responsive e-commerce frontend inspired by Amazon.
+Arcade-style game built using Python & Pygame.
 
 ---
 
-
-# ⚡ GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Haider-001&theme=tokyonight&hide_border=true" />
@@ -140,25 +84,18 @@ Responsive e-commerce frontend inspired by Amazon.
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Haider-001&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haider-001&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haider-001&theme=tokyo-night" />
+<img src="https://komarev.com/ghpvc/?username=Haider-001&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
-
----
-
-# ⚡ Fun Fact
-
-> I enjoy building AI systems, experimenting with local LLMs, and turning ideas into real-world projects through code.
 
 ---
 
