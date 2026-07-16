@@ -74,6 +74,7 @@ Machine Learning based prediction system.
 ### 🍉 Fruit Crusher
 Arcade-style game built using Python & Pygame.
 
+
 ---
 
 ## 🔥 GitHub Streak
@@ -91,6 +92,7 @@ Arcade-style game built using Python & Pygame.
 </p>
 
 ---
+
 
 
 <p align="center">
