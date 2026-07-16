@@ -5,7 +5,7 @@ AI & Python Developer • B.Tech CSE (Data Science & AI) • Building Intelligen
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Python+Developer;Building+LLM+Applications;Exploring+Agentic+AI+Systems;FastAPI+%7C+Docker+%7C+LangChain;Always+Learning+and+Building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Python+Developer;Building+LLM+Applications;Exploring+Agentic+AI+Systems;FastAPI+%7C+Docker+%7C+LangChain;Always+Learning+and+Building+🚀" />
 </p>
 
 <p align="center">
