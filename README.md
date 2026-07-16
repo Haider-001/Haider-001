@@ -1,88 +1,200 @@
-<h1 align="center">Hi 👋, I'm Ghazi Haider</h1>
-<h3 align="center">B.Tech CSE (Data Science & AI) Student | AI & Python Developer</h3>
+# <h1 align="center">Hi 👋, I'm Ghazi Haider</h1>
+
+<h3 align="center">
+AI & Python Developer • B.Tech CSE (Data Science & AI) • Building Intelligent Systems
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Python+Developer;Building+LLM+Applications;Exploring+Agentic+AI+Systems;FastAPI+%7C+Docker+%7C+LangChain;Always+Learning+and+Building+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Haider-001&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Haider-001?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Haider-001?affiliations=OWNER&style=for-the-badge" />
+</p>
 
 ---
 
-🎓 B.Tech CSE (DSAI) @ Integral University
+## 🚀 About Me
 
-💡 Passionate about AI, Machine Learning, LLMs, and Backend Development
+🎓 **B.Tech CSE (Data Science & AI)** @ Integral University
 
-🐍 Python Developer
+💡 Passionate about Artificial Intelligence, Machine Learning, LLMs, and Backend Development
 
-🤖 Exploring LangChain, Ollama, AI Agents & Local LLMs
+🤖 Building AI-powered applications using Local LLMs, Agentic AI, and RAG
+
+🐍 Python Developer focused on scalable and intelligent systems
+
+📍 Lucknow, India
 
 🌱 Currently Learning:
-- Flask
-- FastAPI
-- LangGraph
-- Agentic AI
-- RAG Systems
 
-🚀 Projects:
-- InsightSwarm (Multi-Agent Research Engine)
-- My_SLM (Small Language Model in PyTorch)
-- Student Performance Prediction
-- Fruit_Crusher Game
-- Local LLM Assistant (Ollama)
-- Netflix Clone
-- Amazon Clone
+* LangGraph
+* Agentic AI Systems
+* Advanced RAG Pipelines
+* FastAPI
+* Docker & DevOps
+* Multi-Agent Architectures
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghazi-haider-4a906336a)
+<p align="left">
+<a href="https://www.linkedin.com/in/ghazi-haider-4a906336a">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsghazihaider008@gmail.com)
+<a href="mailto:itsghazihaider008@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://ghazi-haider-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
 ---
 
-## 🛠️ Languages & Tools
+# 💻 Tech Stack
 
-<p align="left">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=flask" />
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=fastapi" />
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git" />
+### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=github" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=vscode" />
+* LangChain
+* LangGraph
+* Ollama
+* RAG Pipelines
+* AI Agents
+* Local LLMs
+* NLP
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+### Databases
 
-<img src="https://skillicons.dev/icons?i=docker" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html" />
+### DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=css" />
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
+</p>
+
+### Tools & IDEs
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,pycharm" />
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+### 🤖 InsightSwarm
+
+Multi-Agent Research Engine capable of gathering, analyzing, and generating structured reports using AI agents.
+
+### 🧠 My_SLM
+
+Building a Small Language Model from scratch in PyTorch to understand LLM internals.
+
+### 🎯 Student Performance Prediction
+
+Machine Learning project for predicting student academic performance.
+
+### 🍉 Fruit Crusher
+
+Arcade-style game built with Python and Pygame featuring achievements, challenges, and player progression.
+
+### 💬 Local LLM Assistant
+
+Offline AI Assistant powered by Ollama and open-source language models.
+
+### 🎬 Netflix Clone
+
+Frontend clone replicating Netflix UI and user experience.
+
+### 🛒 Amazon Clone
+
+Responsive e-commerce frontend inspired by Amazon.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haider-001&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haider-001&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Contributions
+# ⚡ GitHub Streak
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Haider-001&theme=github-dark)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Haider-001&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🎯 2026 Goals
+# 🏆 GitHub Trophies
 
-✅ Build AI Projects
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Haider-001&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
+</p>
 
-✅ Learn FastAPI
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haider-001&theme=tokyo-night" />
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build Production AI Applications
+
+✅ Master FastAPI & Backend Engineering
+
+✅ Learn Advanced RAG Systems
 
 ✅ Contribute to Open Source
 
-✅ Build Production AI Agents
+✅ Build Multi-Agent AI Systems
 
-✅ Become an AI/LLM Developer
+✅ Become an AI/LLM Engineer
 
 ---
 
-⭐ Always learning and building.
+# ⚡ Fun Fact
+
+> I enjoy building AI systems, experimenting with local LLMs, and turning ideas into real-world projects through code.
+
+---
+
+<h3 align="center">
+⭐ Building • Learning • Innovating
+</h3>
