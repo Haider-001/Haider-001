@@ -32,10 +32,8 @@ AI & Python Developer • B.Tech CSE (Data Science & AI) • Building Intelligen
 
 * LangGraph
 * Agentic AI Systems
-* Advanced RAG Pipelines
 * FastAPI
 * Docker & DevOps
-* Multi-Agent Architectures
 
 ---
 
@@ -77,10 +75,6 @@ AI & Python Developer • B.Tech CSE (Data Science & AI) • Building Intelligen
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
-* LangChain
-* LangGraph
-* Ollama
-* RAG Pipelines
 * AI Agents
 * Local LLMs
 * NLP
@@ -137,17 +131,6 @@ Responsive e-commerce frontend inspired by Amazon.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haider-001&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haider-001&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # ⚡ GitHub Streak
 
@@ -170,22 +153,6 @@ Responsive e-commerce frontend inspired by Amazon.
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haider-001&theme=tokyo-night" />
 </p>
-
----
-
-# 🎯 2026 Goals
-
-✅ Build Production AI Applications
-
-✅ Master FastAPI & Backend Engineering
-
-✅ Learn Advanced RAG Systems
-
-✅ Contribute to Open Source
-
-✅ Build Multi-Agent AI Systems
-
-✅ Become an AI/LLM Engineer
 
 ---
 
