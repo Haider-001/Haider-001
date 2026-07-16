@@ -91,7 +91,7 @@ Arcade-style game built using Python & Pygame.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haider-001&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+
 
 
 
@@ -99,7 +99,7 @@ Arcade-style game built using Python & Pygame.
 <img src="https://komarev.com/ghpvc/?username=Haider-001&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
+
 
 <h3 align="center">
 ⭐ Building • Learning • Innovating
